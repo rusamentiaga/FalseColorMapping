@@ -1,2 +1,6 @@
 # FalseColorMapping
 False color mapping for OpenCV (cmocean perceptually-uniform colormaps)
+
+Result:
+
+![](Result/ColorMapThermal.jpg)
