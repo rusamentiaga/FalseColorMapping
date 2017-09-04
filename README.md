@@ -1,4 +1,4 @@
-# FalseColorMapping
+# False color mapping for OpenCV
 False color mapping for OpenCV (cmocean perceptually-uniform colormaps)
 
 Thyng, K.M., C.A.Greene, R.D.Hetland, H.M.Zimmerle, and S.F.DiMarco. 2016. True colors of oceanography : Guidelines for effective and accurate colormap selection.Oceanography 29(3) : 9–13.
